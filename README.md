@@ -5,11 +5,11 @@ Project Title
 
 Name of the Application	:
 
-Section			   	:
+Section: Magnesium
 
-Group Members			:		
+Group Members: Sid Cabral, Nathan David, Seth Cruz	
 
-Date (Proposal Date)		:
+Date (Proposal Date):
 
 Project Description:
 
